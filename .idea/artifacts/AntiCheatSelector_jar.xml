@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiCheatSelector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiCheatSelector_jar</output-path>
+    <root id="archive" name="AntiCheatSelector.jar">
+      <element id="module-output" name="AntiCheatSelector" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/patched_1.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mojang_1.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/LuckPerms-Bukkit-5.4.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/paper.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

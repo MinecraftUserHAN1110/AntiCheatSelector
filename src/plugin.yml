@@ -1,0 +1,11 @@
+name: AnticheatTest
+version: 1.0.0
+main: gg.feathermc.anticheat.ClientHack
+
+commands:
+  anticheat:
+    description: show anticheat list and can make choose anticheat
+  ac:
+    description: anticheat command
+  fs:
+    description: show filter system
